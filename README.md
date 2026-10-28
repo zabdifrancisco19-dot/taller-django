@@ -2,7 +2,7 @@
 
 Docente: Jose Javier Torres Vanstrahlen
 Curso: Desarrollo de aplicaciones Web I 4E
-Estudiante: TU NOMBRE
+Estudiante: Zabdi Francisco
 
 ## Qué se hizo
 
